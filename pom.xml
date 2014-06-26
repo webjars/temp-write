@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>temp-write</artifactId>
-    <version>0.3.1</version>
+    <version>0.3.2-SNAPSHOT</version>
     <name>temp-write</name>
     <description>WebJar for temp-write</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/temp-write</url>
         <connection>scm:git:https://github.com/webjars/temp-write.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/temp-write.git</developerConnection>
-        <tag>temp-write-0.3.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
